@@ -20,5 +20,6 @@ This project helped me learn:
 - How to display formatted output
 - Basic Python syntax
   
+---
 
 Created by **Taranjeet Kaur**
