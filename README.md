@@ -19,7 +19,6 @@ This project helped me learn:
 - How to create and use variables
 - How to display formatted output
 - Basic Python syntax
-
----
+  
 
 Created by **Taranjeet Kaur**
